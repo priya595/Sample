@@ -5,5 +5,6 @@ if h == "yes":
     print("eat samosa")
     print("eat pizza")
     print("eat bread")
+    print("eat burger")
 else:
     print("Do homework")
