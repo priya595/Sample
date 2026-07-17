@@ -7,4 +7,6 @@ if h == "yes":
     print("eat bread")
     print("eat burger")
 else:
-    print("Do homework")
+    print("Do sleep")
+    
+
